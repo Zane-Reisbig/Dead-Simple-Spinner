@@ -1,10 +1,8 @@
 import time
 from sys import stdout, argv
-from os import system
 from typing import IO
 
 
-from threading import Thread
 from itertools import cycle
 
 
